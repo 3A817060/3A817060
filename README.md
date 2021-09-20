@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @3A817060
-- 👀 I’m interested in Coding,like Android Studio,Python,Java
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in Coding,like Python,Java,C,Java Script
 - 🌱 I’m currently learning Android Studio,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
